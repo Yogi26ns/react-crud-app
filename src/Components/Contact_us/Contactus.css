@@ -1,0 +1,25 @@
+.hello{
+    color: aliceblue;
+    padding-top: 150px;
+}
+p{
+    font-family: monospace;
+    font-size: large;
+}
+.cards{
+    display: inline-flex;
+    justify-content: space-between;
+    padding: auto;
+    margin: auto;
+    padding: 20px;
+}
+.buttn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.hel{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

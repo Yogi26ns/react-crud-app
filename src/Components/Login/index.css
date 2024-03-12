@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+    font-family:monospace;
+    color: #e6edf3;
+    
+}
+.register:hover{
+    color: #0246a2;
+    text-decoration: underline;
+}
